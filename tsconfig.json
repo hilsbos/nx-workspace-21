@@ -8,6 +8,33 @@
     },
     {
       "path": "./apps/app-numberOne"
+    },
+    {
+      "path": "./apps/app-numberTwo-e2e"
+    },
+    {
+      "path": "./apps/app-numberTwo"
+    },
+    {
+      "path": "./apps/app-numberThree-e2e"
+    },
+    {
+      "path": "./apps/app-numberThree"
+    },
+    {
+      "path": "./apps/app-numberFour-e2e"
+    },
+    {
+      "path": "./apps/app-numberFour"
+    },
+    {
+      "path": "./libs/saturnlib"
+    },
+    {
+      "path": "./libs/mercurylib"
+    },
+    {
+      "path": "./libs/marslib"
     }
   ]
 }
