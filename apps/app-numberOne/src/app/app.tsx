@@ -4,9 +4,13 @@ import NxWelcome from './nx-welcome';
 
 import { Route, Routes, Link } from 'react-router-dom';
 
+import { MarsButton } from '@nx-workspace-21/marslib';
+
 export function App() {
   return (
     <div>
+      <MarsButton />
+
       <NxWelcome title="@nx-workspace-21/app-numberOne" />
 
       {/* START: routes */}
